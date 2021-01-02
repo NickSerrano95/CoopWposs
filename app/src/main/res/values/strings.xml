@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CoopWposs</string>
+    <string name="correo">Ingrese su Correo</string>
+    <string name="contraseña">Ingrese su Contraseña</string>
+    <string name="boton_entrar">Ingresar</string>
+    <string name="boton_registrarse">Registrarse</string>
+    <string name="boton_depositar">Realizar deposito</string>
+    <string name="boton_salir">Salir</string>
+    <string name="boton_retirar">Realizar Retiro</string>
+    <string name="boton_transferencia">Realizar Transferencia</string>
+    <string name="boton_saldo">Consultar Saldo</string>
+    <string name="boton_admin">Administrar</string>
+    <string name="boton_realizarret">Realizar Retiro</string>
+    <string name="monto_retiro">Ingrese el Monto</string>
+    <string name="cuenta_destino">Ingrese C/ta de Destino</string>
+    <string name="boton_realizartrans">Realizar Retiro</string>
+    <string name="cuenta_buscar">Ingrese Email</string>
+    <string name="boton_buscar">Buscar</string>
+    <string name="boton_habilitar">Habilitar C/ta</string>
+    <string name="boton_deshabilitar">Deshabilitar C/ta</string>
+    <string name="nombre">Ingrese su Nombre</string>
+    <string name="identificacion">Ingrese su Identificación</string>
+    <string name="boton_volver">Volver</string>
+
+
+</resources>
